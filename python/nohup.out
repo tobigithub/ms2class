@@ -1,0 +1,9 @@
+python: can't open file 'xgb.py': [Errno 2] No such file or directory
+Fitting 3 folds for each of 324 candidates, totalling 972 fits
+terminate called after throwing an instance of 'thrust::system::detail::bad_alloc'
+  what():  std::bad_alloc: out of memory
+terminate called after throwing an instance of 'thrust::system::detail::bad_alloc'
+  what():  std::bad_alloc: out of memory
+terminate called after throwing an instance of 'thrust::system::detail::bad_alloc'
+  what():  std::bad_alloc: out of memory
+Fitting 3 folds for each of 243 candidates, totalling 729 fits
